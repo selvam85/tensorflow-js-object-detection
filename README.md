@@ -4,7 +4,7 @@ This is a simple project for Object Detection using TensorFlow.js. This app uses
 
 Learn more details about this project in this [blog post](https://github.com/tensorflow/tfjs/tree/master/tfjs-vis). 
 
-# Project Contents
+## Project Contents
 
 This project consists of the following three files. 
 
@@ -25,6 +25,11 @@ coco-ssd model:
 This app's script file:
 ```HTML
 <script src="script.js" defer></script>
+```
+
+This apps's stylesheet:
+```HTML
+<link rel="stylesheet" href="style.css">
 ```
 
 ### style.css
